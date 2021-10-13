@@ -1,0 +1,11 @@
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\obj\Debug\netcoreapp3.1\code1.csprojAssemblyReference.cache
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\obj\Debug\netcoreapp3.1\code1.AssemblyInfoInputs.cache
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\obj\Debug\netcoreapp3.1\code1.AssemblyInfo.cs
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\bin\Debug\netcoreapp3.1\code1.exe
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\bin\Debug\netcoreapp3.1\code1.deps.json
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\bin\Debug\netcoreapp3.1\code1.runtimeconfig.json
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\bin\Debug\netcoreapp3.1\code1.runtimeconfig.dev.json
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\bin\Debug\netcoreapp3.1\code1.dll
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\bin\Debug\netcoreapp3.1\code1.pdb
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\obj\Debug\netcoreapp3.1\code1.dll
+d:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 5\code1\obj\Debug\netcoreapp3.1\code1.pdb
